@@ -1,0 +1,7 @@
+.vscode 
+
+# cache files 
+/__pycache__
+
+# file types
+*.csv
